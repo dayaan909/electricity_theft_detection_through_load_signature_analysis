@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score,roc_auc,confusion_matrix
+Random Forest,0.999,1.0,0.9944,0.9972,1.0,"[[820, 0], [1, 179]]"
+XGBoost,0.999,1.0,0.9944,0.9972,1.0,"[[820, 0], [1, 179]]"
+Isolation Forest,0.815,0.4874,0.5389,0.5119,0.873,"[[718, 102], [83, 97]]"
